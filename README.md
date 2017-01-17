@@ -12,7 +12,7 @@ Docker images for ChucK and related libraries.
 
 ```
 docker-chuck  Docker images for ChucK and related libraries.
-Copyright (c) 2015 held jointly by the individual authors.
+Copyright (c) 2015-2017 held jointly by the individual authors.
 
 docker-chuck is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
