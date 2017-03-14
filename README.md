@@ -1,15 +1,6 @@
 # docker-chuck
 Docker images for ChucK and related libraries.
 
- * docker pull [heuermh/chuck-alsa]()
- * docker pull [heuermh/chuck-jack]()
- * docker pull [heuermh/chuck-alsa-chugins]()
- * docker pull [heuermh/chuck-jack-chugins]()
- * docker pull [heuermh/chuck-alsa-ladspa]()
- * docker pull [heuermh/chuck-jack-ladspa]()
- * docker pull [heuermh/lick-alsa]()
- * docker pull [heuermh/lick-jack]()
-
 ```
 docker-chuck  Docker images for ChucK and related libraries.
 Copyright (c) 2015-2017 held jointly by the individual authors.
@@ -25,3 +16,11 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 ```
 
+ * docker pull [heuermh/chuck-alsa]()
+ * docker pull [heuermh/chuck-jack]()
+ * docker pull [heuermh/chuck-alsa-chugins]()
+ * docker pull [heuermh/chuck-jack-chugins]()
+ * docker pull [heuermh/chuck-alsa-ladspa]()
+ * docker pull [heuermh/chuck-jack-ladspa]()
+ * docker pull [heuermh/lick-alsa]()
+ * docker pull [heuermh/lick-jack]()
